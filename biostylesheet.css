@@ -4,6 +4,7 @@ h1 {
 
 p {
     text-align: justify;
+    font-family: menlo;
     padding-left: 350px;
     padding-right: 350px;
 }
