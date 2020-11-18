@@ -1,14 +1,14 @@
 body {
-    background-color: lightcoral;
+    background-color: yellow;
   }
   
   h1 {
-    color: #0033c7
+    color: brown;
   }
   
   h3 {
     padding-left: 20px;
-    color: #0033c7
+    color: brown;
   }
   
   hr {
@@ -20,7 +20,7 @@ body {
   }
   
   .otherPage:hover {
-    color: #0033c7
+    color: #0033c7;
   }
   
   #headshot {
