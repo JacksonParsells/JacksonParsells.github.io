@@ -1,14 +1,14 @@
 body {
-    background-color: yellow;
+    background-color: rgb(255, 255, 194);
   }
   
   h1 {
-    color: brown;
+    color: rgb(230, 122, 122);
   }
   
   h3 {
     padding-left: 20px;
-    color: brown;
+    color: rgb(230, 122, 122);
   }
   
   hr {
