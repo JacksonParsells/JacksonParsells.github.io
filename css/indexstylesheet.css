@@ -10,7 +10,7 @@ body {
     padding-left: 20px;
     color: rgb(230, 122, 122);
   }
-  
+
   hr {
     border-style: none;
     border-top-style: dotted;
@@ -19,6 +19,15 @@ body {
     width: 5%;
   }
   
+  th {
+    color: rgb(230, 122, 122);
+    text-align: left;
+  }
+
+  .introCard {
+    text-align: center;
+  }
+
   .otherPage:hover {
     color: #0033c7;
   }
